@@ -100,9 +100,9 @@ section#service {
     float: left;
     display: flex;
     list-style: none;
-    width: 1%;
+    width: 3%;
+    height: 30%;
     justify-content: left;
-    text-transform: uppercase;
     padding-right: 1px;
     margin-left: 15px;
     margin-top: 8px;
